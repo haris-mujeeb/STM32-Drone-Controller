@@ -15,9 +15,13 @@ A compact and robust drone flight controller designed with STM32 microcontroller
 *   **BMI088**: Sensor integration.
 
 ## 📸 Visuals
+<img src="https://github.com/haris-mujeeb/STM32-Drone-Controller/blob/main/PCB_1.png" width="500" alt="STM32 Drone Controller Pinout">
 
-*   [PCB Layout](PCB_1.png)
-*   [STM32 Pinout](STM32%20Pinout.jpg)
+## 📍Pinout
+<img src="https://github.com/haris-mujeeb/STM32-Drone-Controller/blob/main/STM32%20Pinout.jpg" width="500" alt="STM32 Drone Controller Pinout">
+
+## 📄Schematic
+<img src="https://github.com/haris-mujeeb/STM32-Drone-Controller/raw/main/Schematic.png" width="800" alt="STM32 Drone Controller Schematic">
 
 ## 📂 Project Structure
 
