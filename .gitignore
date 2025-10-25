@@ -1,55 +1,45 @@
-
-# KiCad files
-*.kicad_pcb-bak
-*.kicad_sch-bak
-*.kicad_wks
-*.kicad_pro.bak
-*.kicad_prl
-*.kicad_sym
-*.kicad_mod
-*.kicad_pcb
-*.kicad_sch
-*.kicad_pro
-*.kicad_prl
-*.kicad_wks
-*.net
-*.drc
-*.bck
-*.rpt
-*.gbr
-*.cmp
-*.kicad_pcb-bak
-*.kicad_sch-bak
-*.kicad_wks
-*.kicad_pro.bak
-*.kicad_prl
-*.kicad_sym
-*.kicad_mod
-*.kicad_pcb
-*.kicad_sch
-*.kicad_pro
-*.kicad_prl
-*.kicad_wks
-*.net
-*.drc
-*.bck
-*.rpt
-*.gbr
-*.cmp
+# KiCad generated files (should be ignored)
 *.bak
+*.bck
+*.drc
+*.gbr
+*.net
+*.rpt
+*.cmp
+*.log
+*.lck
 *.csv
 *.pdf
 *.xls
-*.log
-*.lck
-# Project files
+*-cache.lib
+*-cache.sch
+*-rescue.lib
+*-bak.pro
+*-bak.sch
+*-bak.kicad_pcb
+*-bak.kicad_sch
+*-bak.kicad_pro
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_wks
+*.kicad_pro.bak
+*.kicad_prl
+*.kicad_sym
+*.kicad_mod
+
+# KiCad project files (should NOT be ignored)
+# .kicad_pcb
+# .kicad_sch
+# .kicad_pro
+# fp-lib-table
+
+# Project specific ignores
 Mini_Drone_Controller-backups/
 Backup/
 fp-info-cache/
+Components/BMI088/how-to-import.htm
+
 # OS generated files
 .DS_Store
 Thumbs.db
 desktop.ini
-fp-info-cache
-fp-lib-table
-Components/BMI088/how-to-import.htm
